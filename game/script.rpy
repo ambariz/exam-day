@@ -97,11 +97,11 @@ label choice_4:
     menu:
         "What do you do?"
         "Actually think about the answers":
-            $ grade += 15
+            $ grades += 15
         "Pick C for everything":
             $ grades -= 15
             $ sanity += 5
-        "Draw a smiley face on the paper"
+        "Draw a smiley face on the paper":
             $ grades -= 25
             $ sanity += 5
     "Grades: [grades]"
@@ -123,23 +123,23 @@ label ending_check:
 label topper_ending:
     "You aced the exam!"
     "Your teachers are impressed"
-    "TOPPER"
+    "YOU ARE A TOPPER"
     return
 
 label sleep_champion_ending:
     "You may not know every answer..."
     "But you got amazing sleep and peak health."
-    "SLEEP CHAMPION ENDING"
+    "YOU ARE A SLEEP CHAMPION"
     return  
 
 label chaos_ending:
     "Nobody understands your exam paper."
     "Not even you :("
-    "CHAOS ENDING"
+    "YOU ARE A CHAOS KID"
     return  
 
 label average_ending:
     "You somehow survived."
     "A pass is a pass."
-    "AVERAGE STUDENT ENDING"
+    "YOU ARE A BEST AVERAGE STUDENT"
     return  
