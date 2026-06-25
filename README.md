@@ -1,18 +1,8 @@
 # Exam Day
 
-A silly visual novel about surviving the most dangerous event known to students:
+A silly visual novel about surviving the most dangerous event known to students: **An exam.**
 
-**An exam.**
-
-Everyone has advice.
-
-Your friend has advice.
-
-Your teacher has advice.
-
-That one random guy has advice.
-
-Most of it is terrible.
+Everyone has advice. Your friend has advice. Your teacher has advice. That one random guy has advice. Most of it is terrible.
 
 Can you make it through Exam Day?
 
